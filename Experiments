@@ -46,16 +46,16 @@
     | B      | 15   | 154    |
     | C      | 19   | 169    |
     | D      | 17   | 172    |
-    | E      | 21   | 175    |
+    | E      | 21   | 175    | ✅
 21. Suppose a sample of 16 light trucks is randomly selected off the assembly line. The trucks are driven 1000 miles and
 the fuel mileage (MPG) of each truck is recorded. It is found that the mean MPG is 22 with a SD equal to 3. The previous
-model of the light truck got 20 MPG. Conduct a t-test of the null hypothesis at p = 0.05
+model of the light truck got 20 MPG. Conduct a t-test of the null hypothesis at p = 0.05 ✅
 
 22. The mean productivity rating for all employees at a company was 3.8 on a five-point scale last year.
 This year you get ratings from a representative sample of fifteen employees from the Human Research Management.
 Do the data from this sample provide evidence that employee productivity in the department of Human Resource Management
 is significantly higher than in the company as a whole? Write the null and alternative hypotheses for this problem. Use
-statistical analysis software to test the null hypothesis stated above.
+statistical analysis software to test the null hypothesis stated above. ✅
 
 23. Obtain the regression equation for predicting systolic blood pressure from job satisfaction with reference to the given data using statistical analysis software. If one knows that a subject in the future has a score on job satisfaction of 15, what is their systolic blood pressure predicted to be? What is the standard error of estimate?
     | Job Satisfaction | Systolic BP |
